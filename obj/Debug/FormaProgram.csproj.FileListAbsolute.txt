@@ -1,0 +1,12 @@
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\bin\Debug\FormaProgram.exe.config
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\bin\Debug\FormaProgram.exe
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\bin\Debug\FormaProgram.pdb
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.Form1.resources
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.Properties.Resources.resources
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.exe
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.pdb
+C:\Users\ucenik\Desktop\MLM 4.D- VS\FormaProgram\FormaProgram\obj\Debug\FormaProgram.Form2.resources
